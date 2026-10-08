@@ -81,8 +81,6 @@ This project builds a movie-review sentiment classifier on **49,582 real IMDB re
 
 > Maas, A. L., Daly, R. E., Pham, P. T., Huang, D., Ng, A. Y., & Potts, C. (2011). *Learning Word Vectors for Sentiment Analysis.* Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics (ACL 2011). Stanford AI Lab.
 
-> ⚠️ The CSV is **not** included in this repository. Download it from the Kaggle link and place it next to the notebook. `keras.datasets.imdb` is deliberately **not** used, because cleaning, tokenising and padding the raw text is part of the project.
-
 <br>
 
 ---
