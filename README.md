@@ -31,9 +31,11 @@
 
 [![Watch the Project Walkthrough](https://img.shields.io/badge/▶%20Watch%20Full%20Walkthrough-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](#)
 
-> 🎥 **A complete video explanation (face + screen, 5–10 min)** of this project — why word order matters, the RNN equation with a manual NumPy forward pass, the four RNN types, BPTT, vanishing vs. exploding gradients, LSTM gates, GRU gates, the final recommendation, and a live `predict_sentiment()` demo.
 
-> 📌 *Replace the `(#)` link above with your own Google Drive / YouTube (Unlisted) video URL before submitting.*
+🎥 **A complete video explanation (face + screen, 5–10 min)** covering the complete project workflow, including text preprocessing, why word order matters, RNN architecture and manual NumPy forward pass, RNN sequence types, BPTT, vanishing vs. exploding gradients, LSTM gates, GRU gates, model comparison, final recommendation, and live `predict_sentiment()` inference.
+
+
+> 📌 *Click the button above or [open the video directly →]()*
 
 </div>
 
