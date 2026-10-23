@@ -29,13 +29,13 @@
 
 <div align="center">
 
-[![Watch the Project Walkthrough](https://img.shields.io/badge/▶%20Watch%20Full%20Walkthrough-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](#)
+[![Watch the Project Walkthrough](https://img.shields.io/badge/▶%20Watch%20Full%20Walkthrough-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1r09Ok2Ri1sV93pALPmZNeotBlLNoyoMo/view?usp=sharing)
 
 
 🎥 **A complete video explanation (face + screen, 5–10 min)** covering the complete project workflow, including text preprocessing, why word order matters, RNN architecture and manual NumPy forward pass, RNN sequence types, BPTT, vanishing vs. exploding gradients, LSTM gates, GRU gates, model comparison, final recommendation, and live `predict_sentiment()` inference.
 
 
-> 📌 *Click the button above or [open the video directly →]()*
+> 📌 *Click the button above or [open the video directly →](https://drive.google.com/file/d/1r09Ok2Ri1sV93pALPmZNeotBlLNoyoMo/view?usp=sharing)*
 
 </div>
 
